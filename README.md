@@ -6,7 +6,7 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 ## Presentation decks
 
-[**Lecture 1: Introduction to Storytelling with Data: why communication is important in applied analytics**](https://github.com/ssp3nc3r/20193APAN5800K005/module_01.pdf) 
+[**Lecture 1:** Introduction to Storytelling with Data: why communication is important in applied analytics](https://github.com/ssp3nc3r/20193APAN5800K005/module_01.pdf) 
 
 [**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/module_02,pdf)
 
