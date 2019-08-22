@@ -6,29 +6,29 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 ## Presentation decks
 
-[**Lecture 1:** Introduction to Storytelling with Data: why communication is important in applied analytics](https://github.com/ssp3nc3r/20193APAN5800K005/module_01.pdf) 
+[**Lecture 1:** Introduction to Storytelling with Data: why communication is important in applied analytics](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_01.pdf) 
 
-[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/module_02,pdf)
+[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_02,pdf)
 
-[**Lecture 3:** Effective business writing with audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/module_03.pdf)
+[**Lecture 3:** Effective business writing with audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_03.pdf)
 
-[**Lecture 4:** Principles of persuasion and brief proposals](https://github.com/ssp3nc3r/20193APAN5800K005/module_04.pdf)
+[**Lecture 4:** Principles of persuasion and brief proposals](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_04.pdf)
 
-[**Lecture 5:** Analyze before you speak --- audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/module_05.pdf)
+[**Lecture 5:** Analyze before you speak --- audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_05.pdf)
 
-[**Lecture 6:** The storytelling process](https://github.com/ssp3nc3r/20193APAN5800K005/module_06.pdf)
+[**Lecture 6:** The storytelling process](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_06.pdf)
 
-[**Lecture 7:** The storytelling process continued, and visual perception](https://github.com/ssp3nc3r/20193APAN5800K005/module_07.pdf)
+[**Lecture 7:** The storytelling process continued, and visual perception](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_07.pdf)
 
-[**Lecture 8:** Effective visuals](https://github.com/ssp3nc3r/20193APAN5800K005/module_08.pdf)
+[**Lecture 8:** Effective visuals](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_08.pdf)
 
-[**Lecture 9:** Frame the story --- consumers and information graphics](https://github.com/ssp3nc3r/20193APAN5800K005/module_09.pdf)
+[**Lecture 9:** Frame the story --- consumers and information graphics](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_09.pdf)
 
-[**Lecture 10:** Infographics --- demonstration and discussion](https://github.com/ssp3nc3r/20193APAN5800K005/module_10.pdf)
+[**Lecture 10:** Infographics --- demonstration and discussion](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_10.pdf)
 
-[**Lecture 11:** Infographic wrap-up; ideas on presentations](https://github.com/ssp3nc3r/20193APAN5800K005/module_11.pdf)
+[**Lecture 11:** Infographic wrap-up; ideas on presentations](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_11.pdf)
 
-[**Lecture 12:** Student presentations; peer feedback; wrapping up](https://github.com/ssp3nc3r/20193APAN5800K005/module_12.pdf)
+[**Lecture 12:** Student presentations; peer feedback; wrapping up](https://github.com/ssp3nc3r/20193APAN5800K005/presentations/module_12.pdf)
 
 ## Additional material
 
