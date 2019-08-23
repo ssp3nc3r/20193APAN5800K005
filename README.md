@@ -39,11 +39,11 @@ Abelson, Robert P. Statistics as Principled Argument. Psychology Press, 1995. Pr
 
 Andrews, R J. Info We Trust: How to Inspire the World with Data. Wiley, 2019. Print.
 
-Authors, Wayne C Booth and Gregory G Colomb and Joseph M Williams and Joseph Bizup and William T FitzGerald. “17. Revising Style.” The Craft of Research. University of Chicago Press, 2016. 1–20. Print.
-
 Berinato, Scott. “Data Science & the Art of Persuasion.” Harvard Business Review (2018): 1–13. Print.
 
 Bertin, Jacques. Semiology of Graphics: Diagrams Networks Maps. Trans. William J Berg. Redlands: ESRI Press, 2010. Print.
+
+Booth, Wayne C et al. “17. Revising Style.” The Craft of Research. University of Chicago Press, 2016. 1–20. Print.
 
 Brady, Chris, Mike Forde, and Simon Chadwick. “Why Your Company Needs Data Translators.” MIT Sloan Management Review (2017): 1–6. Print.
 
