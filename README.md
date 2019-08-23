@@ -14,17 +14,17 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 4:** Principles of persuasion and brief proposals](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_04.pdf)
 
-[**Lecture 5:** Analyze before you speak --- audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_05.pdf)
+[**Lecture 5:** Analyze before you speak — audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_05.pdf)
 
 [**Lecture 6:** The storytelling process](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_06.pdf)
 
 [**Lecture 7:** The storytelling process continued, and visual perception](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_07.pdf)
 
-[**Lecture 8:** Effective visuals --- encodings, grammar, layers](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_08.pdf)
+[**Lecture 8:** Effective visuals — encodings, grammar, layers](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_08.pdf)
 
-[**Lecture 9:** Frame the story --- consumers and information graphics](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_09.pdf)
+[**Lecture 9:** Frame the story — consumers and information graphics](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_09.pdf)
 
-[**Lecture 10:** Infographics --- demonstration and discussion](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_10.pdf)
+[**Lecture 10:** Infographics — demonstration and discussion](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_10.pdf)
 
 [**Lecture 11:** Infographic wrap-up; ideas on presentations](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_11.pdf)
 
