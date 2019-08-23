@@ -43,6 +43,8 @@ Authors, Wayne C Booth and Gregory G Colomb and Joseph M Williams and Joseph Biz
 
 Berinato, Scott. “Data Science & the Art of Persuasion.” Harvard Business Review (2018): 1–13. Print.
 
+Bertin, Jacques. Semiology of Graphics: Diagrams Networks Maps. Trans. William J Berg. Redlands: ESRI Press, 2010. Print.
+
 Brady, Chris, Mike Forde, and Simon Chadwick. “Why Your Company Needs Data Translators.” MIT Sloan Management Review (2017): 1–6. Print.
 
 Butterick, Matthew. “Butterick's Practical Typography.” practicaltypography.com. N.p., 2018. Web. 8 Sept. 2018.
