@@ -10,7 +10,7 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_02,pdf)
 
-[**Lecture 3:** Effective business writing with audience analysis](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_03.pdf)
+[**Lecture 3:** Business writing, audience analysis, visual considerations](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_03.pdf)
 
 [**Lecture 4:** Principles of persuasion and brief proposals](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_04.pdf)
 
