@@ -18,9 +18,9 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 6:** The storytelling process](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_06.pdf)
 
-[**Lecture 7:** The storytelling process continued, and visual perception](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_07.pdf)
+[**Lecture 7:** The storytelling process, encoding data, visual perception](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_07.pdf)
 
-[**Lecture 8:** Effective visuals — encodings, grammar, layers](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_08.pdf)
+[**Lecture 8:** Effective visuals — grammar and layers](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_08.pdf)
 
 [**Lecture 9:** Frame the story — consumers and information graphics](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_09.pdf)
 
