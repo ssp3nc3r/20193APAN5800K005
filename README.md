@@ -41,8 +41,6 @@ Andrews, R J. Info We Trust: How to Inspire the World with Data. Wiley, 2019. Pr
 
 Berinato, Scott. “Data Science & the Art of Persuasion.” Harvard Business Review (2018): 1–13. Print.
 
-Bertin, Jacques. Semiology of Graphics: Diagrams Networks Maps. Trans. William J Berg. Redlands: ESRI Press, 2010. Print.
-
 Booth, Wayne C et al. “17. Revising Style.” The Craft of Research. University of Chicago Press, 2016. 1–20. Print.
 
 Brady, Chris, Mike Forde, and Simon Chadwick. “Why Your Company Needs Data Translators.” MIT Sloan Management Review (2017): 1–6. Print.
@@ -107,6 +105,8 @@ Martin, Roger L, and Tony Golsby-Smith. “Management Is Much More Than a Scienc
 
 McCloud, Scott. Understanding Comics: the Invisible Art. Kitchen Sink Press, 1993. Print.
 
+Munzner, Tamara. Visualization Analysis and Design. CRC Press, 2014. Print.
+
 Müller-Brockmann, Josef. Grid Systems in Graphic Design. ARTHUR NIGGLI LTD., 1996. Print.
 
 Riche, Nathalie Henry et al. Data-Driven Storytelling. CRC Press, 2018. Print.
@@ -142,4 +142,3 @@ Wainer, Howard. “The Most Dangerous Equation.” Picturing the Uncertain World
 Wickham, Hadley. “A Layered Grammar of Graphics.” Journal of Computational and Graphical Statistics 19.1 (2010): 3–28. Web.
 
 Wilkinson, Leland. The Grammar of Graphics. Second. Springer, 2005. Print.
-
