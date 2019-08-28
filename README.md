@@ -115,6 +115,8 @@ Rosenbaum, Paul. Observation and Experiment: an Introduction to Causal Inference
 
 Salovey, Peter et al. Emotional Intelligence: Theoretical and Cultural Perspectives. Ed. Robert J Emmerling, Vinod K Shanwal, and Manas K Mandal. Nova Science Publishers, 2008. Print.
 
+Schwabish, Jonathan. “Better Presentations: a Guide for Scholars, Researchers, and Wonks.” (2016): 1–200. Print.
+
 Sharot, Tali. The Influential Mind. Henry Holt and Company, 2017. Print.
 
 Song, Hayeong, and Danielle Albers Szafir. “Where's My Data? Evaluating Visualizations with Missing Data.” IEEE Transactions on Visualization and Computer Graphics 25.1 (2018): 914–924. Web.
