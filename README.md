@@ -8,7 +8,7 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 1:** Introduction to Storytelling with Data: why communication is important in applied analytics](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_01.pdf) 
 
-[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_02,pdf)
+[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_02.pdf)
 
 [**Lecture 3:** Business writing, audience analysis, visual considerations](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_03.pdf)
 
@@ -114,6 +114,8 @@ Riche, Nathalie Henry et al. Data-Driven Storytelling. CRC Press, 2018. Print.
 Rosenbaum, Paul. Observation and Experiment: an Introduction to Causal Inference. Harvard University Press, 2017. Print.
 
 Salovey, Peter et al. Emotional Intelligence: Theoretical and Cultural Perspectives. Ed. Robert J Emmerling, Vinod K Shanwal, and Manas K Mandal. Nova Science Publishers, 2008. Print.
+
+Schwabish, Jonathan. “Better Presentations: a Guide for Scholars, Researchers, and Wonks.” (2016): 1–200. Print.
 
 Sharot, Tali. The Influential Mind. Henry Holt and Company, 2017. Print.
 
