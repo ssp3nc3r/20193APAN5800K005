@@ -8,7 +8,7 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 1:** Introduction to Storytelling with Data: why communication is important in applied analytics](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_01.pdf) 
 
-[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_02,pdf)
+[**Lecture 2:** Scoping a project, finding data, analyzing, writing it up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_02.pdf)
 
 [**Lecture 3:** Business writing, audience analysis, visual considerations](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_03.pdf)
 
