@@ -47,9 +47,17 @@ Brady, Chris, Mike Forde, and Simon Chadwick. “Why Your Company Needs Data Tra
 
 Butterick, Matthew. “Butterick's Practical Typography.” practicaltypography.com. N.p., 2018. Web. 8 Sept. 2018.
 
+Cairo, Alberto. “Graphics Lies, Misleading Visuals.” New Challenges for Data Design. 2nd ed. London: Springer, London, 2015. 103–116. Web.
+
 Caldeira, Joao, Alex Fout, Aniket Kesari, Raesetje Sefala, Joe Walsh, et al. “Improving Traffic Safety Through Video Analysis: Pulse Lab Jakarta.” dssg.uchicago.edu. N.p., 2018. Web. 2 Feb. 2019.
 
 Caldeira, Joao, Alex Fout, Aniket Kesari, Raesetje Sefala, Joseph Walsh, et al. “Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia.” 2018. 1–5. Print.
+
+Carr, David J. “A Map of Modern Brand Building.” medium.com. N.p., 7 Nov. 2016. Web. 26 Sept. 2019.
+
+Carr, David J. “Data Is the New Oil: Dirty, Misunderstood, Polluting the World & Pulled From All the Wrong Places.” medium.com. Palgrave Macmillan UK, 17 Jan. 2018. Web. 26 Sept. 2019.
+
+Carr, David J. “What Value Do You Create? Marketing’s 3 Types of Value.” medium.com. N.p., 28 Jan. 2019. Web. 26 Sept. 2019.
 
 Cleveland, William S. The Elements of Graphing Data. Wadsworth, 1985. Print.
 
@@ -63,7 +71,7 @@ Doumont, Jean-Luc. Trees, Maps, and Theorems. Principiæ, 2009. Print.
 
 Dragicevic, Pierre. “Fair Statistical Communication in HCI.” Modern Statistical Methods for HCI. Ed. Judy Robertson and Maurits Kaptein. Springer International Publishing, 2016. 291–330. Web.
 
-Duarte, Nancy. “Chapter 8 There’s Always Room to Improve.” Resonate Present Visual Stories That Transform Audiences. 2010. 1–24. Print.
+Duarte, Nancy. Resonate: Present Visual Stories That Transform Audiences. Wiley, 2010. Print.
 
 Farnsworth, Ward. Farnsworth's Classical English Metaphor. David R. Godine Publisher, 2016. Print.
 
@@ -71,11 +79,13 @@ Farnsworth, Ward. Farnsworth's Classical English Rhetoric. David R. Godine Publi
 
 Fischhoff, Baruch. “Communicating Uncertainty: Fulfilling the Duty to Inform.” Issues in Science and Technology 28.4 (2012): 63–70. Print.
 
+Gelman, Andrew. “Ethics in Statistical Practice and Communication: Five Recommendations.” Significance 15.5 (2018): 40–43. Web.
+
 Gilovich, Thomas, Dale Griffin, and Daniel Kahnman. Heuristics and Biases. Ed. Thomas Gilovich, Dale Griffin, and Daniel Kahneman. Cambridge: Cambridge University Press, 2009. Web.
 
 Guber, Peter. “The Four Truths of the Storyteller.” Harvard Business Review (2007): 53–59. Print.
 
-Healy, Kieran. Data Visualization. 2018. Print.
+Healy, Kieran. Data Visualization. Princeton University Press, 2018. Print.
 
 Holtz, Yan, and Conor Healy. “From Data to Viz.” www.data-to-viz.com 2018: n. pag. Print.
 
@@ -133,11 +143,11 @@ Tufte, Edward R. “6. Data-Ink Maximization and Graphical Design.” The Visual
 
 Tufte, Edward R. “9. Aesthetics and Technique in Data Graphical Design.” The Visual Display of Quantitative Information. Graphics Press, 2001. 1–14. Print.
 
-Tufte, Edward R. “The Cognitive Style of PowerPoint: Pitching Out Corrupts Within.” Beautiful Evidence. Graphics Press, 2006. 1–28. Print.
+Tufte, Edward R. Beautiful Evidence. Graphics Press, 2006. Print.
 
 Tufte, Edward R. The Visual Display of Quantitative Information. Second. Graphics Press, 2001. Print.
 
-Wacharamanotham, Chat et al. “Special Interest Group on Transparent Statistics Guidelines..” CHI Extended Abstracts (2018): n. pag. Print.
+Wacharamanotham, Chat et al. “Special Interest Group on Transparent Statistics Guidelines.” CHI Extended Abstracts (2018): n. pag. Print.
 
 Wainer, Howard. “The Most Dangerous Equation.” Picturing the Uncertain World. Princeton University Press, 2009. 1–18. Print.
 
