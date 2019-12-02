@@ -28,7 +28,7 @@ I've prepared this material for the **Fall 2019** course, **Storytelling with Da
 
 [**Lecture 11:** Infographic wrap-up; ideas on presentations](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_11.pdf)
 
-[**Lecture 12:** Student presentations; peer feedback; wrapping up](https://github.com/ssp3nc3r/20193APAN5800K005/blob/master/presentations/module_12.pdf)
+**Lecture 12 and 13:** Student presentations; peer feedback; wrapping up
 
 ## Additional material
 
